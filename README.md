@@ -7,7 +7,7 @@ Sou um desenvolvedor focado em Front End, com aproximadamente 2 anos de experiê
 - Flutter (Dart): 1 ano e 2 meses de experiência em desenvolvimento de aplicativos móveis com Flutter.
 
 ## Contato
-Discord
+[Discord](https://discord.com/channels/@Escolano#7294)
 
 Fique à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novos desafios!
 
