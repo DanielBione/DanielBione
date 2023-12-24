@@ -1,7 +1,7 @@
 ### Olá! sou Daniel Escolano
 
 Sobre mim
-Sou um desenvolvedor focado em Front End, com aproximadamente 2 anos de experiência na criação de aplicativos móveis Flutter. Durante minha jornada, explorei várias ferramentas, incluindo Riverpod, Provider, MobX, entre outras. Além do Flutter, também trabalho em projetos envolvendo C#, JavaScript e Python.
+Sou um desenvolvedor focado em Front End, com aproximadamente 2 anos de experiência na criação de aplicativos móveis Flutter. Durante minha jornada, explorei várias ferramentas, incluindo Riverpod, Provider, MobX, entre outras. Além do Flutter.
 
 Experiência e Habilidades
 Flutter (Dart): 1 ano e 2 meses de experiência em desenvolvimento de aplicativos móveis com Flutter.
