@@ -1,13 +1,15 @@
-### Olá! sou Daniel Escolano
+# Olá! Sou Daniel Escolano
 
-Sobre mim
+## Sobre Mim
 Sou um desenvolvedor focado em Front End, com aproximadamente 2 anos de experiência na criação de aplicativos móveis Flutter. Durante minha jornada, explorei várias ferramentas, incluindo Riverpod, Provider, MobX, entre outras. Além do Flutter.
 
-Experiência e Habilidades
-Flutter (Dart): 1 ano e 2 meses de experiência em desenvolvimento de aplicativos móveis com Flutter.
+## Experiência e Habilidades
+- Flutter (Dart): 1 ano e 2 meses de experiência em desenvolvimento de aplicativos móveis com Flutter.
 
-Contato
-Discord Fique à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novos desafios!
+## Contato
+Discord
+
+Fique à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novos desafios!
 
 <!--
 **DanielBione/DanielBione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
