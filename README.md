@@ -5,7 +5,6 @@ Sou um desenvolvedor focado em Front End, com aproximadamente 2 anos de experiê
 
 Experiência e Habilidades
 Flutter (Dart): 1 ano e 2 meses de experiência em desenvolvimento de aplicativos móveis com Flutter.
-Outras Linguagens: C#, Python.
 
 Contato
 Discord Fique à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novos desafios!
