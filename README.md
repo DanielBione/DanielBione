@@ -2,8 +2,7 @@
 
 ## Sobre Mim
 
-Sou um entusiasta do desenvolvimento Front End, apaixonado por criar experiências digitais envolventes e intuitivas. Com cerca de 1 ano e 2 meses de experiência no desenvolvimento de aplicativos móveis Flutter, mergulhei fundo no universo da programação, buscando constantemente aprimorar minhas habilidades.
-
+Sou um entusiasta do desenvolvimento Front End, apaixonado por criar experiências digitais envolventes e intuitivas. Tenho explorado o universo da programação, buscando constantemente aprimorar minhas habilidades.
 Durante minha jornada, explorei diversas ferramentas e frameworks, incluindo Riverpod, Provider, e MobX, ampliando meu conhecimento e aprimorando minha abordagem criativa para resolver problemas complexos.
 
 ## Experiência e Habilidades
