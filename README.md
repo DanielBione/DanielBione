@@ -11,4 +11,6 @@ Durante minha jornada, explorei diversas ferramentas e frameworks, incluindo Riv
 ## Contato
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@Escolano#7294) 
-Fique à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novos desafios!
+
+Fique à vontade para explorar meus repositórios e entrar em contato.
+Estou sempre aberto a colaborações e novos desafios!
