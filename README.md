@@ -14,4 +14,4 @@ Fique à vontade para explorar meus repositórios e entrar em contato. Estou sem
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEscolano&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DanielEscolano&label=Dart%2Cflutter%2C%20c%2B%2B%2Cpython&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DanielEscolano&icon=7&color=0)](https://visitcount.itsvg.in)
